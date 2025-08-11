@@ -13,7 +13,7 @@ Features include track playback, playlist display, progress control, and a moder
 ## 📸 Screenshots
 
 ![Screenshot 1](./screencapture-127-0-0-1-3000-index-html-2025-08-11-23_17_25.png)
-![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## 📂 Tech Stack
 
@@ -26,3 +26,9 @@ Features include track playback, playlist display, progress control, and a moder
 ```bash
 git clone https://github.com/yourusername/spotify-clone.git
 ```
+
+
+## Contact
+
+Created by Dawood Tahir - [dawoodta80@gmail.com]
+
